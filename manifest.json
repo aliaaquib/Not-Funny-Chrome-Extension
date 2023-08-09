@@ -7,7 +7,7 @@
     "action": {
         "default_popup": "index.html",
         "default_icon": "assests/logo.png",
-        "default_title": "Not Funny"
+        "defau lt_title": "Not Funny"
     },
     "icons": {
         "128": "assests/logo.png"
